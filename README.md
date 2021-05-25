@@ -2,12 +2,15 @@
 中国计算机技术职业资格，软考，中级，软件设计师
 
 
-## 相关连接
+## 官方连接
 - 1、[**中国计算机技术职业资格网**](https://www.ruankao.org.cn/introduction/zgsz)
 - 2、[**全国计算机技术与软件专业技术资格（水平）考试网上报名平台**](https://bm.ruankao.org.cn/sign/welcome)
 - 3、[**2021年计算机技术与软件专业技术资格(水平)考试安排有关事项的通知**](https://www.ruankao.org.cn/arrange/details?id=100001210209122059467350)
-- 4、[**希赛每日一练**](https://www.educity.cn/tiku/dp100110021008-1.html)
-- 5、[**软件设计师考试真题答案及下载**](https://www.educity.cn/rk/zhenti/prog/)
+
+## 学习资料
+- 1、[**B站软件设计师考试教程**](https://www.bilibili.com/video/BV1rW411j7e7)
+- 2、[**希赛每日一练**](https://www.educity.cn/tiku/dp100110021008-1.html)
+- 3、[**软件设计师考试真题答案及下载**](https://www.educity.cn/rk/zhenti/prog/)
 
 ## 考试前的准备
 - 1、本人有效证件
