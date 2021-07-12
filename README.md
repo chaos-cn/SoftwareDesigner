@@ -2,7 +2,7 @@
 中国计算机技术职业资格，软考，中级，软件设计师
 
 
-## 官方连接
+## 官方链接
 - 1、[**中国计算机技术职业资格网**](https://www.ruankao.org.cn/introduction/zgsz)
 - 2、[**全国计算机技术与软件专业技术资格（水平）考试网上报名平台**](https://bm.ruankao.org.cn/sign/welcome)
 - 3、[**2021年计算机技术与软件专业技术资格(水平)考试安排有关事项的通知**](https://www.ruankao.org.cn/arrange/details?id=100001210209122059467350)
